@@ -8,7 +8,7 @@
 	define('CONST_DB_HOST', "localhost");
 	//define('CONST_DB_PORT', "8098");
 	//define('CONST_DB_PORT', "3307");
-	define('CONST_DB_NAME', "naturopathe");
+	define('CONST_DB_NAME', "apero");
 	define('CONST_DB_USER', "root");
 	define('CONST_DB_PASS', "root");
 	
@@ -32,7 +32,7 @@
     /* PATH  */
     define('STYLE_CSS', 'vue/css/style.css');
     define('IMAGES_STYLE', './vue/images/');
-    define('ADRESSE_ABSOLUE_URL', 'http://localhost:8098/naturopathe/');
+    define('ADRESSE_ABSOLUE_URL', 'http://localhost:8098/APERO_HOLIN_GICQUEL/');
 
     /* INCLUSION DE FICHIERS CONF */
     require_once('pages_existantes.php');
